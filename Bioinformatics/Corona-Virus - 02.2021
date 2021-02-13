@@ -1,0 +1,7 @@
+% Bioinformatic Project - Coronavirus
+# Using the https://www.ebi.ac.uk/chembl/ Database
+# Before the first use:
+# pip install chembl_webresource_client
+# Project in accordance to the "Bioinformatics Project" from Dataprofessor
+# https://www.youtube.com/playlist?list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP
+# Created in Spyder (Python 3.8)
