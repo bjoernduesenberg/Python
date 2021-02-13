@@ -1,4 +1,4 @@
-% Bioinformatic Project - Coronavirus
+# Bioinformatic Project - Coronavirus
 # Using the https://www.ebi.ac.uk/chembl/ Database
 # Before the first use:
 # pip install chembl_webresource_client
